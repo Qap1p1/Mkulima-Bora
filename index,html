@@ -23,8 +23,9 @@
             <a href="#login"><i class="fa fa-fw fa-user"></i> Login</a>
         </div>
         <div class="main-context-text">
-            <h1 id="main-text-heading"> Mkulima Bora</h1>
-            <p></p>
+            <h1 id="main-text-heading">
+                 Mkulima Bora
+            </h1>
         </div>
     </section>
 
